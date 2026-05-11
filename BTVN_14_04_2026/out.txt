@@ -1,0 +1,7 @@
+total 56
+-rwxrwxrwx 1 ethan ethan 16896 Apr 20 15:06 chat_server_poll
+-rwxrwxrwx 1 ethan ethan  5281 Apr 20 09:22 chat_server_poll.c
+-rwxrwxrwx 1 ethan ethan    41 Apr 20 15:14 login.txt
+-rwxrwxrwx 1 ethan ethan     0 Apr 20  2026 out.txt
+-rwxrwxrwx 1 ethan ethan 16896 Apr 20 15:13 telnet_server_poll
+-rwxrwxrwx 1 ethan ethan  4357 Apr 20 15:10 telnet_server_poll.c
